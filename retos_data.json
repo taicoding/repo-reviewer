@@ -1,0 +1,97 @@
+[
+    {
+        "title": "💬 feedback: Retos de la sesión 01",
+        "paths": [
+            "retos_sesion_01/ejercicio_01.txt",
+            "retos_sesion_01/ejercicio_02.txt"
+        ],
+        "expected_files": 2,
+        "challenges": 3,
+        "max_date": "2025-04-26",
+        "template": "templates/retos_sesion_01.md"
+    },
+    {
+        "title": "💬 feedback: Retos de la sesión 02",
+        "paths": [
+            "retos_sesion_02/ejercicio_01.md",
+            "retos_sesion_02/ejercicio_02.md",
+            "Readme.md"
+        ],
+        "expected_files": 3,
+        "challenges": 3,
+        "max_date": "2025-05-03",
+        "template": "templates/retos_sesion_02.md"
+    },
+    {
+        "title": "💬 feedback: Retos de la sesión 03",
+        "paths": [
+            "retos_sesion_03/ejercicio_01.py",
+            "retos_sesion_03/ejercicio_02.py",
+            "retos_sesion_03/ejercicio_03.py"
+        ],
+        "expected_files": 3,
+        "challenges": 3,
+        "max_date": "2025-05-10",
+        "template": "templates/retos_sesion_03.md"
+    },
+    {
+        "title": "💬 feedback: Retos de la sesión 04",
+        "paths": [
+            "retos_sesion_04/ejercicio_01.py",
+            "retos_sesion_04/ejercicio_02.ipynb",
+            "retos_sesion_04/ejercicio_03.py",
+            "retos_sesion_04/ejercicio_04.ipynb"
+        ],
+        "expected_files": 4,
+        "challenges": 4,
+        "max_date": "2025-05-17",
+        "template": "templates/retos_sesion_04.md"
+    },
+    {
+        "title": "💬 feedback: Retos de la sesión 05",
+        "paths": [
+            "retos_sesion_05/ejercicio_01.py",
+            "retos_sesion_05/ejercicio_02.py",
+            "retos_sesion_05/ejercicio_03.py",
+            "retos_sesion_05/ejercicio_04.py",
+            "retos_sesion_05/sesion05.ipynb"
+        ],
+        "expected_files": 5,
+        "challenges": 5,
+        "max_date": "2025-05-24",
+        "template": "templates/retos_sesion_05.md"
+    },
+    {
+        "title": "💬 feedback: Retos de la sesión 06",
+        "paths": [
+            "retos_sesion_06/ejercicio_01.py",
+            "retos_sesion_06/ejercicio_02.py",
+            "retos_sesion_06/ejercicio_03.py",
+            "retos_sesion_06/ejercicio_04.py",
+            "retos_sesion_06/ejercicio_05.py",
+            "retos_sesion_06/ejercicio_06.py",
+            "retos_sesion_06/ejercicio_07.py",
+            "retos_sesion_06/sesion06.ipynb"
+        ],
+        "expected_files": 8,
+        "challenges": 8,
+        "max_date": "2025-05-31",
+        "template": "templates/retos_sesion_06.md"
+    },
+    {
+        "title": "💬 feedback: Retos de la sesión 07",
+        "paths": [
+            "retos_sesion_07/ejercicio_01.py",
+            "retos_sesion_07/ejercicio_02.py",
+            "retos_sesion_07/ejercicio_03.py",
+            "retos_sesion_07/ejercicio_04.py",
+            "retos_sesion_07/ejercicio_05.py",
+            "retos_sesion_07/ejercicio_06.py",
+            "retos_sesion_07/sesion07.ipynb"
+        ],
+        "expected_files": 7,
+        "challenges": 7,
+        "max_date": "2025-06-07",
+        "template": "templates/retos_sesion_07.md"
+    }
+]

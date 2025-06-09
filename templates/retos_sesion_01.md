@@ -1,10 +1,10 @@
 ### ✅ Resumen de la revisión - Preview
 
 📅 Retos entregados en el plazo establecido: {delivery_status}  
-✔️ Retos cumplidos: 0/3  
-⚠️ Retos observados: 0/3
-❌ Retos incumplidos: {missing_files}/3  
-📃 Archivos en formato correcto: {files_in_format}/2  
+✔️ Retos cumplidos: 0/{challenges}  
+⚠️ Retos observados: 0/{challenges}
+❌ Retos incumplidos: {missing_files}/{challenges} 
+📃 Archivos en formato correcto: {files_in_format}/{expected_files}  
 📁 Estructura de carpetas: {folder_format}
 
 ---
