@@ -7,8 +7,7 @@
         ],
         "expected_files": 2,
         "challenges": 3,
-        "max_date": "2025-04-26",
-        "template": "templates/retos_sesion_01.md"
+        "max_date": "2025-04-26"
     },
     {
         "title": "💬 feedback: Retos de la sesión 02",
@@ -19,8 +18,7 @@
         ],
         "expected_files": 3,
         "challenges": 3,
-        "max_date": "2025-05-03",
-        "template": "templates/retos_sesion_02.md"
+        "max_date": "2025-05-03"
     },
     {
         "title": "💬 feedback: Retos de la sesión 03",
@@ -31,8 +29,7 @@
         ],
         "expected_files": 3,
         "challenges": 3,
-        "max_date": "2025-05-10",
-        "template": "templates/retos_sesion_03.md"
+        "max_date": "2025-05-10"
     },
     {
         "title": "💬 feedback: Retos de la sesión 04",
@@ -44,8 +41,7 @@
         ],
         "expected_files": 4,
         "challenges": 4,
-        "max_date": "2025-05-17",
-        "template": "templates/retos_sesion_04.md"
+        "max_date": "2025-05-17"
     },
     {
         "title": "💬 feedback: Retos de la sesión 05",
@@ -58,8 +54,7 @@
         ],
         "expected_files": 5,
         "challenges": 5,
-        "max_date": "2025-05-24",
-        "template": "templates/retos_sesion_05.md"
+        "max_date": "2025-05-24"
     },
     {
         "title": "💬 feedback: Retos de la sesión 06",
@@ -75,8 +70,7 @@
         ],
         "expected_files": 8,
         "challenges": 8,
-        "max_date": "2025-05-31",
-        "template": "templates/retos_sesion_06.md"
+        "max_date": "2025-05-31"
     },
     {
         "title": "💬 feedback: Retos de la sesión 07",
@@ -91,7 +85,6 @@
         ],
         "expected_files": 7,
         "challenges": 7,
-        "max_date": "2025-06-07",
-        "template": "templates/retos_sesion_07.md"
+        "max_date": "2025-06-07"
     }
 ]
